@@ -90,7 +90,7 @@
     </div>
   </main>
   <footer class="footer">
-    COD3R & ALUNOS 2019
+    COD3R & ALUNOS <?= date('Y'); ?>
   </footer>
 </body>
 </html>
