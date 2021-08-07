@@ -27,6 +27,11 @@
                 Integração HTML
               </a>
             </li>
+            <li>
+              <a href="exercise.php?dir=basic&file=css">
+                Integração CSS
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
