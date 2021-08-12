@@ -32,6 +32,11 @@
                 Integração CSS
               </a>
             </li>
+            <li>
+              <a href="exercise.php?dir=basic&file=comments">
+                Comentários PHP
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
