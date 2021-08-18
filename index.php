@@ -57,6 +57,16 @@
                 Tipo Float
               </a>
             </li>
+            <li>
+              <a href="exercise.php?dir=types&file=aritmeticas">
+                Operações Aritmeticas
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=types&file=desafio_precedencia">
+                Desafio Precedência
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
